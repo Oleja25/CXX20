@@ -2,7 +2,7 @@
 #include<ranges>
 
 using std::cout;
-using std::rnages::ioat_view;
+using std::ranges::ioat_view;
 
 auto range = [](size_t begin, size_t end){ return iota_view(begin,end); };
 
